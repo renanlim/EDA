@@ -1,1 +1,1 @@
-// lista na internet
+// minha lista
